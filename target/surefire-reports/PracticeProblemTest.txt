@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: PracticeProblemTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.084 s <<< FAILURE! - in PracticeProblemTest
+findSecondTest1  Time elapsed: 0.011 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Something weird happened
+	at PracticeProblemTest.findSecondTest1(PracticeProblemTest.java:202)
+
+findSecondTest2  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Something weird happened
+	at PracticeProblemTest.findSecondTest2(PracticeProblemTest.java:220)
+
+findSecondTest3  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Something weird happened
+	at PracticeProblemTest.findSecondTest3(PracticeProblemTest.java:238)
+
+findSecondTest5  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Something weird happened
+	at PracticeProblemTest.findSecondTest5(PracticeProblemTest.java:274)
+
